@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TK3-SafetyApp.iml" filepath="$PROJECT_DIR$/.idea/modules/TK3-SafetyApp.iml" group="TK3-SafetyApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="TK3-SafetyApp/app" />
+    </modules>
+  </component>
+</project>
